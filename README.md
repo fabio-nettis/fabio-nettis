@@ -1,7 +1,7 @@
 # Hi there 👋, I am:
 
 <p>
-  <img src="https://raw.githubusercontent.com/fabio-nettis/fabio-nettis/main/name.gif" /> 
+  <img src="https://raw.githubusercontent.com/fabio-nettis/fabio-nettis/main/name-animated.gif" /> 
 </p>
 
 ## 🔭 I’m currently working on
