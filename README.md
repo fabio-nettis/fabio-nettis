@@ -10,7 +10,7 @@ Different projects in the e-commerce sector for my current [employer](https://gi
 
 ## ✍🏻 My favorite quote
 
-"The internet gave us access to everything, but it also gave everything access to us."
+> The internet gave us access to everything, but it also gave everything access to us.
 
 ## 👯 I’m looking to collaborate on
 
