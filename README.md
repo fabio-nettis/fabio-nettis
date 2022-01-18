@@ -32,13 +32,13 @@ I am an Italian 🇮🇹, growing up and living in Switzerland 🇨🇭 but some
 
 ## Recent publications
 
-<div>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nettisfabio/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nettisfabio/0" alt="Recent Article 0"></a> 
+<div style="width: 100%">
+  <a style="width: 100%" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nettisfabio/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nettisfabio/0" width="100%" alt="Recent Article 0"></a> 
 </div>
 <div>
   
 <p></p>
   
-<div>
-   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nettisfabio/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nettisfabio/1" alt="Recent Article 1"></a> 
+<div style="width: 100%">
+   <a style="width: 100%" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nettisfabio/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nettisfabio/1" width="100%" alt="Recent Article 1"></a> 
 </div>
