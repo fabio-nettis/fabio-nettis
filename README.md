@@ -10,7 +10,7 @@ Different projects in the e-commerce sector for my current [employer](https://gi
 
 ## ✍🏻 My favorite quote
 
-> The internet gave us access to everything, but it also gave everything access to us.
+"The internet gave us access to everything, but it also gave everything access to us."
 
 ## 👯 I’m looking to collaborate on
 
@@ -36,8 +36,8 @@ I am an Italian 🇮🇹, growing up and living in Switzerland 🇨🇭 but some
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nettisfabio/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nettisfabio/0" alt="Recent Article 0"></a> 
 </div>
 <div>
- 
-<hr />
+  
+<p></p>
   
 <div>
    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nettisfabio/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nettisfabio/1" alt="Recent Article 1"></a> 
