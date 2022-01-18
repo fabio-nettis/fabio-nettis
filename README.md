@@ -29,3 +29,16 @@ Anything really, I don't know if I can provide you with an answer, but asking is
 ## ⚡ Fun fact
 
 I am an Italian 🇮🇹, growing up and living in Switzerland 🇨🇭 but somehow I have a perfect british accent when I talk English 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+
+## Recent publications
+
+<div>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nettisfabio/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nettisfabio/0" alt="Recent Article 0"></a> 
+</div>
+<div>
+ 
+<hr />
+  
+<div>
+   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nettisfabio/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nettisfabio/1" alt="Recent Article 1"></a> 
+</div>
