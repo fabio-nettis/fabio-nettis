@@ -10,11 +10,12 @@ Different projects in the e-commerce sector for my current [employer](https://gi
 
 ## ✍🏻 My favorite quote
 
-"The internet gave us access to everything, but it also gave everything access to us."
+> The internet gave us access to everything, but it also gave everything access to us.
 
 ## 👯 I’m looking to collaborate on
 
 Any projects using:
+
 - React
 - React-Native
 - NodeJS
@@ -28,7 +29,9 @@ Anything really, I don't know if I can provide you with an answer, but asking is
 
 ## ⚡ Fun fact
 
-I am an Italian 🇮🇹, growing up and living in Switzerland 🇨🇭 but somehow I have a perfect british accent when I talk English 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+1. I am an Italian 🇮🇹,
+2. Grew up and currently living in Switzerland 🇨🇭
+3. But somehow I have a perfect british accent when I talk English 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 
 ## Recent publications
 
