@@ -36,12 +36,19 @@ Anything really, I don't know if I can provide you with an answer, but asking is
 ## Recent publications
 
 <div style="width: 100%">
-  <a style="width: 100%" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nettisfabio/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nettisfabio/0" width="100%" alt="Recent Article 0"></a> 
-</div>
+  <a style="width: 100%" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nettisfabio/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nettisfabio/0" width="100%" alt="Recent Article 1"></a> 
 <div>
+
+<p></p>
+  
+<div style="width: 100%">
+   <a style="width: 100%" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nettisfabio/1">
+   <img src="https://github-readme-medium-recent-article.vercel.app/medium/@nettisfabio/1" width="100%" alt="Recent Article 2"></a> 
+</div>
   
 <p></p>
   
 <div style="width: 100%">
-   <a style="width: 100%" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nettisfabio/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nettisfabio/1" width="100%" alt="Recent Article 1"></a> 
+   <a style="width: 100%" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nettisfabio/2">
+   <img src="https://github-readme-medium-recent-article.vercel.app/medium/@nettisfabio/2" width="100%" alt="Recent Article 3"></a> 
 </div>
